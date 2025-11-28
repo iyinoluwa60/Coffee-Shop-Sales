@@ -15,3 +15,7 @@ Total Quantity Sold Analysis
 - Calculate the total quantity sold for each respective month
 - Determine the month-on-month increase or decrease in the total quantity sold
 - Calculate the difference in the total quantity sold between the selected month and the previous month
+
+
+## 🛠 Tech Stack
+https://img.shields.io/badge/MySQL-005C84?logo=mysql&logoColor=white
